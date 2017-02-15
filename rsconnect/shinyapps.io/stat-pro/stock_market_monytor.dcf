@@ -1,0 +1,10 @@
+name: stock_market_monytor
+title: stock_market_monytor
+account: stat-pro
+server: shinyapps.io
+appId: 156962
+bundleId: 712125
+url: https://stat-pro.shinyapps.io/stock_market_monytor/
+when: 1487138452.07553
+asMultiple: FALSE
+asStatic: FALSE
