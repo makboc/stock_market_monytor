@@ -1,0 +1,36 @@
+---
+title: "Stock Market Monytor"
+output: ioslides_presentation
+date: 2017-02-17
+author: Maksim Boch
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Description
+
+Stock Market Monytor is a simple dashboard which ables to view daily stock market close prices.
+<https://stat-pro.shinyapps.io/stock_market_monytor/>
+
+- You are able to select multiple series and to present them at the same graph.
+- The legend of the graph presents symbol of stock inticator and daily close price.
+- You are able to select specific area on the graph in order to receive closer view of series.
+- By double click you return to initial mode of the graph.
+
+Application code is stored on GitHub.
+<https://github.com/makboc/stock_market_monytor#stock_market_monytor>
+
+## Stock Indeces Selection
+- Search indeces in search box
+- Press SHOW
+
+<img src="images/Screen Shot 2017-02-15 at 8.47.20.png" width="300px" />
+
+
+## Example of Complete Time Series View
+<img src="images/Screen Shot 2017-02-15 at 8.39.20.png" width="800px" />
+
+## Example of Specific Time Range View
+<img src="images/Screen Shot 2017-02-15 at 8.40.15.png" width="800px" />
